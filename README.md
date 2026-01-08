@@ -74,6 +74,5 @@ No additional installation or server setup is required.
 
 
 ## 👩‍💻 Author
-
-* **Selvarani **
+  Selvarani 
 
