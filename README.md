@@ -77,5 +77,3 @@ No additional installation or server setup is required.
 
 * **Selvarani **
 
-* Font Awesome
-* Open-source frontend community
